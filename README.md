@@ -47,5 +47,5 @@ This Power BI dashboard provides a comprehensive view of overall performance of 
 ## Contact
 For any questions or feedback, feel free to reach out:
 - **Name**: Yogesh Deo
-- **Email**: [ogesh_deokar@yahoo.om]
+- **Email**: [yogesh_deokar@yahoo.com]
 - **GitHub**: [https://github.com/yogeshdeo91](https://github.com/yogeshdeo91)
